@@ -9,7 +9,6 @@ This mod changes your ping color to be absolutely blinding, in case you hate you
 ## Requirements
 
 * BepinEx >= 5.4.21
-* [KitchenLib](https://github.com/KitchenMods/KitchenLib) >= 0.2.0
 
 ## Installation
 
